@@ -1,1 +1,1 @@
-# Backpropagation-algorithm-for-neural-network
+# algorithm back propagation of errors
